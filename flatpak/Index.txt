@@ -1,0 +1,6 @@
+https://flathub.org/apps/org.citra_emu.citra
+https://web.archive.org/web/20240305050026/https://flathub.org/apps/org.citra_emu.citra
+
+
+https://dl.flathub.org/repo/appstream/org.citra_emu.citra.flatpakref
+https://web.archive.org/web/20240305051454/https://dl.flathub.org/repo/appstream/org.citra_emu.citra.flatpakref
